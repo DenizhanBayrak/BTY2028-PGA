@@ -2,7 +2,7 @@
 2   1-Başla.
 3   2-Ekrana “Birinci sayıyı giriniz” yaz ve girilen sayıyı oku. (s1)
 4   3-Ekrana “İkinci sayıyı giriniz” yaz ve girilen sayıyı oku. (s2)
-6   4-Eğer birinci sayı ikinci sayıdan küçükse iki sayının değerlerini birbiri ile değiştir.
+5   4-Eğer birinci sayı ikinci sayıdan küçükse iki sayının değerlerini birbiri ile değiştir.
 6   5- Birinci sayıyı ikinci sayıya böl ve kalanı sakla. (k)
 7   6- Eğer kalan sıfırdan büyükse 7. adıma git değilse 8. adıma git.
 8   7- İkinci sayının değerini birinci sayıya ata,kalannın değerini ikinci sayıya ata ve 5.adıma git.
